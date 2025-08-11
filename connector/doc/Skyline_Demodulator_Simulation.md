@@ -2,7 +2,7 @@
 uid: Connector_help_Skyline_Demodulator_Simulation
 ---
 
-# Skyline Modulator Simulation
+# Skyline Demodulator Simulation
 
 ## About
 
@@ -19,3 +19,4 @@ This makes it suitable for training, proof-of-concept setups, and system demonst
 
 > [!NOTE]
 > For detailed technical information, refer to our [technical documentation](xref:Connector_help_Skyline_Demodulator_Simulation_Technical).
+
