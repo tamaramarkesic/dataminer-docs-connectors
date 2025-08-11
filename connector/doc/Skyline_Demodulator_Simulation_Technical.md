@@ -6,7 +6,7 @@ uid: Connector_help_Skyline_Demodulator_Simulation_Technical
 
 ## About
 
-The Skyline Modulator Simulation connector emulates a demodulator, allowing users to adjust and monitor parameters for demonstration and training purposes without requiring physical hardware.
+The Skyline Demodulator Simulation connector emulates a demodulator, allowing users to adjust and monitor parameters for demonstration and training purposes without requiring physical hardware.
 
 ## Configuration
 
@@ -27,3 +27,4 @@ The Monitoring page provides real-time insight into demodulator performance, dis
 ### Location Details
 
 The Location Details page allows you to specify the demodulator's geographical information, including the location name, latitude, and longitude, providing contextual details for simulation scenarios.
+
